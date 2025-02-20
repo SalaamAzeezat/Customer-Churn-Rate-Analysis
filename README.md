@@ -1,7 +1,7 @@
 # Analysing Customer Churn for Databel Customers
 #### 📍 Tools Used: Tableau
 #### 📌 Dataset Source: Internal Customer Churn Data
-#### 📂 Dashboard Link: [View Here](https://public.tableau.com/views/CaseStudyDatabel_17365515495690/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+#### 📂 Dashboard Link: [View Dashboard](https://public.tableau.com/views/CaseStudyDatabel_17365515495690/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📌 Project Goal
 Customer churn is a significant challenge for subscription-based businesses. The aim of this project is to analyse customer churn data to identify key factors contributing to contract cancellations and provide actionable recommendations to reduce churn rates.
